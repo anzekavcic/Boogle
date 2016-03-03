@@ -1,0 +1,18 @@
+.glava {
+    float: right;
+}
+.sredina {
+    margin: 0 auto;
+    text-align: center;
+}
+.noga {
+        height: 50px;
+        background-color: gainsboro;
+        position: bottom;
+}
+.levo {
+    position: left;
+}
+.desno {
+    position: right;
+}

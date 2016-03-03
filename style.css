@@ -1,0 +1,42 @@
+body {
+    background-color: whitesmoke;
+        }  
+.glava {
+    font-family: Helvetica;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding-right: 10px;
+    padding-top: 10px;   
+            }    
+.telo {
+    font-size: 15px;
+    font-family: Helvetica;
+    text-align: center;
+    padding-top: 50px;
+    margin-left: auto;
+    margin-right: auto;      
+            }
+.gumb {
+    font-size: 12px;
+    color:gray;
+    background-color: lightgrey;
+    object-position: center;  
+           }
+.gumb:hover { 
+    background-color: yellow;
+}
+.iskalnik {
+    width: 500px;
+    height: 25px;
+    object-position:center;
+ }
+.noga {
+    background-color: lightgray;
+    font-family: Helvetica;
+    font-size: 14px;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    padding: 10px;
+}
